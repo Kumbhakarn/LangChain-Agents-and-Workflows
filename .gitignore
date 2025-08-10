@@ -2,6 +2,7 @@
 venv/
 *.csv
 *.pdf
+cleaned-repo/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
