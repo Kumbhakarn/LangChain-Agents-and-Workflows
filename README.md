@@ -1,4 +1,4 @@
-# LangChain Agents and Workflows 🚀
+# LangGraph Agents and Workflows 🚀
 
 A hands-on collection of projects demonstrating the power of the [LangChain](https://www.langchain.com/) framework to build AI-driven workflows and intelligent agents.  
 This repository is a practical resource for learning, experimenting, and creating LLM-powered applications using LangChain.
@@ -6,9 +6,9 @@ This repository is a practical resource for learning, experimenting, and creatin
 ---
 
 ## 📌 About
-This repo contains a variety of **LangChain implementations** ranging from simple LLM calls to complex **multi-step agent workflows**.  
+This repo contains a variety of **LangGraph implementations** ranging from simple LLM calls to complex **multi-step agent workflows**.  
 Each example is designed to help you:
-- Understand **LangChain's building blocks** (LLMs, prompts, memory, tools, agents, retrievers).
+- Understand **LangGraph's building blocks** (LLMs, prompts, memory, tools, agents, retrievers).
 - Create **custom AI agents** for specialized tasks.
 - Orchestrate **multi-step workflows** for real-world use cases.
 
@@ -31,7 +31,7 @@ Each example is designed to help you:
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/Kumbhakarn/LangChain-Agents-and-Workflows.git
+git clone https://github.com/Kumbhakarn/LangGraph-Agents-and-Workflows.git
 cd LangChain-Agents-and-Workflows
 ````
 
